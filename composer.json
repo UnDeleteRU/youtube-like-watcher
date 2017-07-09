@@ -1,0 +1,9 @@
+{
+    "name": "undelete/youtube-like-watcher",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
